@@ -1,2 +1,2 @@
-# codeschool_react-basics-es6
-Code School course React Basics project code refactored with ES6
+# treehouse_react-basics-es6
+Teehouse course React Basics project code refactored with ES6
